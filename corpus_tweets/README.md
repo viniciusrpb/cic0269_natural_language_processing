@@ -4,7 +4,7 @@
 
 - **SemEval2014-task3-train-valid.txt:** corpus completo, contendo os tweets de treinamento e teste (ver na seço abaixo como diferenciar os tweets de treinamento dos de teste);
 - **SemEval2014-task3-train.txt:** corpus dos tweets de treinamento apenas;
-- **SemEval2014-task3-train-valid.txt:** corpus dos tweets de validação (pode ser usado para teste) apenas;
+- **SemEval2014-task3-valid.txt:** corpus dos tweets de validação (pode ser usado para teste) apenas;
 
 ## Atributos
 
