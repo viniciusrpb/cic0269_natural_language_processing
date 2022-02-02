@@ -2,17 +2,12 @@
 
 Natural Language Processing with Deep Learning
 
-## Informações
+## Autores
 
-- Tópico: Redes Neurais Recorrentes e Modelos de Linguagem
-- Desenvolvedor: Prof. Dr. Vinicius R. P. Borges
-- Curso: Mineração de Textos (Text Mining)
-- Universidade de Brasília / Departamento de Ciência da Computação
-- Data: 03 de novembro de 2020
 
-## Tarefa
+## Sumário
 
-Classificação de textos
+
 
 ## Fontes
 
