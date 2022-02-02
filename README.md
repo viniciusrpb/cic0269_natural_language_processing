@@ -1,4 +1,4 @@
-# Processamento de Linguagem Natural
+# CIC0087 - Processamento de Linguagem Natural
 
 Códigos-fontes (Notebooks Python) e recursos de apoio para a disciplina **CIC0087 - Processamento de Linguagem Natural**, do Departamento de Ciência da Computação da Universidade de Brasília. 
 
@@ -20,7 +20,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
    5.1. VanillaRNN
    
-   5.2. [Long Short Term Memory](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb)**;
+   5.2. [Long Short Term Memory](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb);
    
    5.3. Bidirectional Long Short Term Memory
 
