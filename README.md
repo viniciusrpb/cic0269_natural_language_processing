@@ -18,11 +18,11 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 5. Redes Neurais Recorrentes
 
-   5.1. VanillaRNN
+   5.1. Vanilla RNN
    
-   5.2. [Long Short Term Memory](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb);
+   5.2. [Long Short Term Memory (LSTM)](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb);
    
-   5.3. Bidirectional Long Short Term Memory
+   5.3. Gated Recurrent Unit (GRU)
 
 6. Representação e Caracterização de Textos (Parte II)
 
