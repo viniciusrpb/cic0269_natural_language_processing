@@ -10,9 +10,9 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 1. Introdução ao Processamento de Linguagem Natural
 
-2. Pré-processamento de Textos
+2. [Pré-processamento de Textos](cap01_preproc_textos.ipynb)
 
-3. Representação e Caracterização de Textos (Parte I)
+3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
 
 4. Redes Neurais Artificiais
 
