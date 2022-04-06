@@ -16,6 +16,10 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 4. Redes Neurais Artificiais
 
+   4.1. [Perceptron Simples](cap03_1_perceptron_simples.ipynb)
+   
+   4.2. [Multilayer Perceptron](cap03_2_multilayer_perceptron.ipynb)
+
 5. Redes Neurais Recorrentes
 
    5.1. Vanilla RNN
