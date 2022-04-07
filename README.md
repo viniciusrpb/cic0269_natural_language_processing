@@ -20,7 +20,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    4.2. [Multilayer Perceptron](cap03_2_multilayer_perceptron.ipynb)
    
-   4.3. [Estudo de Caso: Análise de Sentimentos](cap3_3_sentiment_analysis_dnn.ipynb)
+   4.3. [Estudo de Caso: Análise de Sentimentos: classificação de polaridade em tweets](cap3_3_sentiment_analysis_dnn.ipynb)
 
 5. Redes Neurais Recorrentes
 
