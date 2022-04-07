@@ -26,18 +26,6 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    5.2. [Long Short Term Memory (LSTM)](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb);
    
-   5.3. Gated Recurrent Unit (GRU)
-
-6. Representação e Caracterização de Textos (Parte II)
-
-   6.1. Word2Vec
-   
-   6.2. Document Paragraphs
-   
-   6.3. Global Vectors
-
- 
-7. Transformers
 
 8. Classificação de Textos
 
