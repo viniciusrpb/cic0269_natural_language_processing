@@ -19,8 +19,6 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    4.1. [Perceptron Simples](cap03_1_perceptron_simples.ipynb)
    
    4.2. [Multilayer Perceptron](cap03_2_multilayer_perceptron.ipynb)
-   
-   4.3. [Estudo de Caso: Análise de Sentimentos: classificação de polaridade em tweets](cap3_3_sentiment_analysis_dnn.ipynb)
 
 5. Redes Neurais Recorrentes
 
@@ -29,9 +27,12 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    5.2. [Long Short Term Memory (LSTM)](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb)
    
 
-8. Classificação de Textos
+### Estudos de Caso para o Projeto
 
-9. [Reconhecimento de Entidades Nomeadas](ner_aula.ipynb)
+6. [Classificação de polaridade em tweets](cap3_3_sentiment_analysis_dnn.ipynb)
+
+
+8. [Reconhecimento de entidades nomeadas em atos de pessoal do Diário Oficial do Distrito Federal](ner_aula.ipynb)
 
 
 ## Referências
