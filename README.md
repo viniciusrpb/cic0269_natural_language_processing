@@ -26,12 +26,12 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
    5.1. Vanilla RNN
    
-   5.2. [Long Short Term Memory (LSTM)](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb);
+   5.2. [Long Short Term Memory (LSTM)](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb)
    
 
 8. Classificação de Textos
 
-9. Reconhecimento de Entidades Nomeadas
+9. [Reconhecimento de Entidades Nomeadas](ner_aula.ipynb)
 
 
 ## Referências
