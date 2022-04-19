@@ -22,7 +22,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 5. Redes Neurais Recorrentes
 
-   5.1. [Vanilla RNN](cap05_1_first_rnn.ipynb)
+   5.1. [Vanilla RNN](cap5_1_first_rnn.ipynb)
    
    5.2. [Long Short Term Memory (LSTM)](cap05_2_lstm.ipynb)
    
