@@ -22,17 +22,16 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 5. Redes Neurais Recorrentes
 
-   5.1. Vanilla RNN
+   5.1. [Vanilla RNN](cap05_1_first_rnn.ipynb)
    
-   5.2. [Long Short Term Memory (LSTM)](https://github.com/viniciusrpb/natural_language_processing/blob/main/lstm_imdb_classification.ipynb)
+   5.2. [Long Short Term Memory (LSTM)](cap05_2_lstm.ipynb)
    
 
 ### Estudos de Caso para o Projeto
 
-6. [Classificação de polaridade em tweets](cap3_3_sentiment_analysis_dnn.ipynb)
+6. [Classificação de polaridade em tweets utilizando MLP](cap3_3_sentiment_analysis_dnn.ipynb)
 
-
-8. [Reconhecimento de entidades nomeadas em atos de pessoal do Diário Oficial do Distrito Federal](ner_aula.ipynb)
+7. [Reconhecimento de entidades nomeadas em atos de pessoal do Diário Oficial do Distrito Federal](ner_aula.ipynb)
 
 
 ## Referências
