@@ -1,6 +1,6 @@
-# CIC0087 - Processamento de Linguagem Natural
+# CIC0269 - Processamento de Linguagem Natural (Natural Language Processing)
 
-Códigos-fontes (Notebooks Python) e recursos de apoio para a disciplina **CIC0087 - Processamento de Linguagem Natural**, do Departamento de Ciência da Computação da Universidade de Brasília. 
+Códigos-fontes (Notebooks Python) e recursos de apoio para a disciplina **CIC0269 - Processamento de Linguagem Natural (Natural Language Processing)**, do Departamento de Ciência da Computação da Universidade de Brasília. 
 
 ## Autores
 
@@ -36,6 +36,8 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 ## Referências
 
+https://web.stanford.edu/~jurafsky/slp3/
 
+https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
 
 
