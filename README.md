@@ -26,13 +26,13 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    5.2. [Long Short Term Memory (LSTM)](cap05_2_lstm.ipynb)
    
-
+<!---
 ### Estudos de Caso para o Projeto
 
 6. [Classificação de polaridade em tweets utilizando MLP](cap3_3_sentiment_analysis_dnn.ipynb)
 
 7. [Reconhecimento de entidades nomeadas em atos de pessoal do Diário Oficial do Distrito Federal](ner_aula.ipynb)
-
+-->
 
 ## Referências
 
