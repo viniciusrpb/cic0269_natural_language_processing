@@ -14,6 +14,8 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 3. [Expressões Regulares](cap03_regex.ipynb)
 
+   3.1. Teste RegEx aqui: [RegExPal](https://www.regexpal.com/)
+
 <!---
 2. [Pré-processamento de Textos](cap01_preproc_textos.ipynb)
 
