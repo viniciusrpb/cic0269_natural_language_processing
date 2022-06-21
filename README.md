@@ -10,6 +10,11 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 1. Introdução ao Processamento de Linguagem Natural
 
+2. Princípios de Linguística
+
+3. [Expressões Regulares](cap03_regex.ipynb)
+
+<!---
 2. [Pré-processamento de Textos](cap01_preproc_textos.ipynb)
 
 3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
@@ -26,7 +31,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    5.2. [Long Short Term Memory (LSTM)](cap05_2_lstm.ipynb)
    
-<!---
+
 ### Estudos de Caso para o Projeto
 
 6. [Classificação de polaridade em tweets utilizando MLP](cap3_3_sentiment_analysis_dnn.ipynb)
