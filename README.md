@@ -18,7 +18,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 4. Pré-processamento de Textos
 
-   4.1. [Pré-processamento de Textos](cap01_preproc_textos.ipynb)
+   4.1. [Pré-processamento de Textos](cap04_text_preprocessing.ipynb)
 
    4.2. Edit Distance <!--[Edit Distance](cap01_preproc_textos.ipynb)-->
 
