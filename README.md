@@ -16,9 +16,13 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
    3.1. Teste RegEx aqui: [RegExPal](https://www.regexpal.com/)
 
-<!---
-2. [Pré-processamento de Textos](cap01_preproc_textos.ipynb)
+4. Pré-processamento de Textos
 
+   4.1. [Pré-processamento de Textos](cap01_preproc_textos.ipynb)
+
+   4.2. Edit Distance <!--[Edit Distance](cap01_preproc_textos.ipynb)-->
+
+<!---
 3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
 
 4. Redes Neurais Artificiais
