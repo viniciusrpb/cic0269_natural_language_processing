@@ -21,6 +21,8 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    4.1. [Pré-processamento de Textos](cap04_text_preprocessing.ipynb)
 
    4.2. Edit Distance <!--[Edit Distance](cap01_preproc_textos.ipynb)-->
+   
+   4.3. [LIWC em Língua Portuguesa](https://sites.icmc.usp.br/taspardo/LIWC2007_Portugues_win.dic)
 
 <!---
 3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
