@@ -24,6 +24,10 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    4.3. [LIWC em Língua Portuguesa](https://sites.icmc.usp.br/taspardo/LIWC2007_Portugues_win.dic)
 
+5. Extração de Características de Textos
+
+6. Similaridade entre Textos
+
 7. Construção e Anotação de Corpos de Texto
 
    7.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
