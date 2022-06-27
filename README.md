@@ -24,6 +24,10 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    4.3. [LIWC em Língua Portuguesa](https://sites.icmc.usp.br/taspardo/LIWC2007_Portugues_win.dic)
 
+7. Construção e Anotação de Corpos de Texto
+
+   7.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
+
 <!---
 3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
 
