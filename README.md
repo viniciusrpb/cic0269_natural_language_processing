@@ -19,14 +19,20 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 4. Pré-processamento de Textos
 
    4.1. [Pré-processamento de Textos](cap04_text_preprocessing.ipynb)
-
-   4.2. Edit Distance <!--[Edit Distance](cap01_preproc_textos.ipynb)-->
    
-   4.3. [LIWC em Língua Portuguesa](https://sites.icmc.usp.br/taspardo/LIWC2007_Portugues_win.dic)
+   4.2. [LIWC em Língua Portuguesa](https://sites.icmc.usp.br/taspardo/LIWC2007_Portugues_win.dic)
 
 5. Extração de Características de Textos
 
+   5.1. [Bag-of-Words](cap05_1_bag_of_words.ipynb)
+
+   5.2. [Term Frequency-Inverse Document Frequency (TF-IDF)](cap_05_2_tfidf.ipynb)
+
 6. Similaridade entre Textos
+
+   6.1. [Edit Distance](cap06_1_edit_distance.ipynb)
+
+   6.2. [Similaridade Cosseno](cap_06_2_cosine_similarity.ipynb)
 
 7. Construção e Anotação de Corpos de Texto
 
