@@ -32,7 +32,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
    6.1. [Edit Distance](cap06_1_edit_distance.ipynb)
 
-   6.2. [Similaridade Cosseno](cap_06_2_cosine_similarity.ipynb)
+   6.2. [Similaridade Cosseno](cap06_2_cosine_similarity.ipynb)
 
 7. Construção e Anotação de Corpos de Texto
 
