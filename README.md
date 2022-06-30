@@ -24,7 +24,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 5. Extração de Características de Textos
 
-   5.1. [Bag-of-Words](cap05_1_bag_of_words.ipynb)
+   5.1. [Bag-of-Words](cap05_1_extracao_caracteristicas.ipynb)
 
    5.2. [Term Frequency-Inverse Document Frequency (TF-IDF)](cap_05_2_tfidf.ipynb)
 
