@@ -14,7 +14,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 3. [Expressões Regulares](cap03_regex.ipynb)
 
-   3.1. Teste RegEx aqui: [RegExPal](https://www.regexpal.com/)
+   3.1. Teste sua RegEx (ao vivo) aqui: [RegExPal](https://www.regexpal.com/)
 
 4. Pré-processamento de Textos
 
