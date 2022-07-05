@@ -34,9 +34,13 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    6.3. [Aplicação: Recuperação de Textos Baseada em Conteúdo](information_retrieval_reuters.ipynb)
 
-7. Construção e Anotação de Corpos de Texto
+7. Modelos de Linguagem Probabilísticos
 
-   7.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
+   7.1. N-Grams
+
+10. Construção e Anotação de Corpos de Texto
+
+   10.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
 
 <!---
 3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
