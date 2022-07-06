@@ -32,11 +32,19 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
    6.2. [Similaridade Cosseno](cap06_2_cosine_similarity.ipynb)
    
-   6.3. [Aplicação: Recuperação de Textos Baseada em Conteúdo](information_retrieval_reuters.ipynb)
+   6.3. [Aplicação: Recuperação de Textos Baseada em Conteúdo (Text Retrieval)](information_retrieval_reuters.ipynb)
 
 7. Modelos de Linguagem Probabilísticos
 
    7.1. [Modelos de Linguagem Unigrama and Bigrama](cap07_1_probabilistic_language_models.ipynb)
+   
+8. Redes Neurais Artificiais
+
+   8.1. [Perceptron Simples](cap03_1_perceptron_simples.ipynb)
+   
+   8.2. [Multilayer Perceptron](cap03_2_multilayer_perceptron.ipynb)
+   
+   8.3. Aplicação [a ver]
 
 10. Construção e Anotação de Corpos de Texto
 
