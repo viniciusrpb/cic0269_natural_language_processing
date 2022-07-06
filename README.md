@@ -36,7 +36,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 7. Modelos de Linguagem Probabilísticos
 
-   7.1. [Unigrams and Bigrams Language Models](cap07_1_probabilistic_language_models.ipynb)
+   7.1. [Modelos de Linguagem Unigrama and Bigrama](cap07_1_probabilistic_language_models.ipynb)
 
 10. Construção e Anotação de Corpos de Texto
 
