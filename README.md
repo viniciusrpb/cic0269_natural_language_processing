@@ -20,7 +20,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
    4.1. [Pré-processamento de Textos](cap04_text_preprocessing.ipynb)
    
-   4.2. [LIWC em Língua Portuguesa](https://sites.icmc.usp.br/taspardo/LIWC2007_Portugues_win.dic)
+   4.2. [LIWC em Língua Portuguesa](resources/LIWC2007_Portugues_win.dic)
 
 5. Extração de Características de Textos
 
