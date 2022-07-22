@@ -42,9 +42,11 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
    8.1. [Perceptron Simples](cap03_1_perceptron_simples.ipynb)
    
-   8.2. [Multilayer Perceptron](cap03_2_multilayer_perceptron.ipynb)
+   8.2. [Multilayer Perceptron com Backpropagation (XOR)](backpropagation.ipynb)
    
-   8.3. Aplicação [a ver]
+   8.3. [Multilayer Perceptron (Keras)](cap03_2_multilayer_perceptron.ipynb)
+   
+   8.4. Aplicação [a ver]
 
 10. Construção e Anotação de Corpos de Texto
 
