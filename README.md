@@ -48,7 +48,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    8.4. Aplicação [a ver]
 
-9. Classificação de Texto
+9. Classificação de Textos
 
    9.1. [Regressão Logística](cap03_1_regressao_logistica.ipynb)
    
