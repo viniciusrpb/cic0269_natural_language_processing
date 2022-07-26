@@ -48,6 +48,12 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    8.4. Aplicação [a ver]
 
+9. Classificação de Texto
+
+   9.1. [Regressão Logística](cap03_1_regressao_logistica.ipynb)
+   
+   9.2. [Avaliação de Desempenho](cap03_2_avaliacao_desempenho.ipynb)
+
 10. Construção e Anotação de Corpos de Texto
 
    10.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
