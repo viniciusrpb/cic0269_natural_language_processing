@@ -44,7 +44,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    8.2. [Multilayer Perceptron com Backpropagation (XOR)](lectures/backpropagation.ipynb)
    
-   8.3. [Multilayer Perceptron (Keras)](cap03_2_multilayer_perceptron.ipynb)
+   8.3. [Multilayer Perceptron (Keras)](cap03_3_deep_multilayer_perceptron.ipynb)
    
    8.4. Aplicação [a ver]
 
