@@ -54,21 +54,23 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    9.4. Aplicação [a ver]
 
-10. Construção e Anotação de Corpos de Texto
 
-   10.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
+10. Construção e Anotação de Corpos de Texto
+ 
+    10.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
+
 
 11. Redes Neurais Recorrentes
-
-   11.1. [Vanilla RNN](cap5_1_first_rnn.ipynb)
+ 
+    11.1. [Vanilla RNN](cap5_1_first_rnn.ipynb)
    
-   11.2. [Long Short Term Memory (LSTM)](cap05_2_lstm.ipynb)
+    11.2. [Long Short Term Memory (LSTM)](cap05_2_lstm.ipynb)
    
-   11.3. [Aplicação 1](cap05_2_lstm.ipynb) Modelo de Linguagem
+    11.3. [Aplicação 1](cap05_2_lstm.ipynb) Modelo de Linguagem
    
-   11.4. [Aplicação 2](cap05_2_lstm.ipynb) Classificação de Textos
+    11.4. [Aplicação 2](cap05_2_lstm.ipynb) Classificação de Textos
    
-   11.5. [Aplicação 3](cap05_2_lstm.ipynb) Reconhecimento de Entidades Nomeadas
+    11.5. [Aplicação 3](cap05_2_lstm.ipynb) Reconhecimento de Entidades Nomeadas
 
 <!---
 3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
