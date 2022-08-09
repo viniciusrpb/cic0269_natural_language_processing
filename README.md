@@ -57,7 +57,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 10. Construção e Anotação de Corpos de Texto
  
-    10.1. [Avaliação de Qualidade: Métricas de Concordância](cap07_metricas_concordancia.ipynb)
+    10.1. [Avaliação de Qualidade: Métricas de Concordância](cap10_metricas_concordancia.ipynb)
 
 
 11. Redes Neurais Recorrentes
