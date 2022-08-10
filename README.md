@@ -46,13 +46,13 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
 9. Redes Neurais Artificiais
 
-   9.1. [Perceptron Simples](lectures/cap03_1_perceptron_simples.ipynb)
+   9.1. [Perceptron Simples](lectures/cap09_1_perceptron_simples.ipynb)
    
-   9.2. [Multilayer Perceptron com Backpropagation (XOR)](lectures/backpropagation.ipynb)
+   9.2. [Multilayer Perceptron com Backpropagation (XOR)](lectures/cap09_2_multilayer_perceptron.ipynb)
    
-   9.3. [Multilayer Perceptron (Keras)](lectures/cap03_3_deep_multilayer_perceptron.ipynb)
+   9.3. [Multilayer Perceptron via Keras (XOR)](lectures/cap09_3_multilayer_perceptron_keras.ipynb)
    
-   9.4. Aplicação [a ver]
+   9.4. [Aplicação: Classificação de Polaridade em Tweets com Multilayer Perceptron (Keras)](lectures/cap09_4_deep_multilayer_perceptron.ipynb)
 
 
 10. Construção e Anotação de Corpos de Texto
