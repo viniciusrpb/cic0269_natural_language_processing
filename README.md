@@ -65,6 +65,14 @@ Matheus Stauffer Viana de Oliveira
     10.2. [Avaliação de Qualidade: Métricas de Concordância](lectures/cap10_2_metricas_concordancia.ipynb)
 
 
+11. Redes Neurais Convolucionais
+ 
+    11.1. [Princípios Básicos de Convolução](lectures/lectures/cap11_1_basics_convolution.ipynb)
+ 
+    11.2. [Implementando uma AlexNet](lectures/cap11_2_alexnet.ipynb)
+
+
+<!---
 11. Redes Neurais Recorrentes
  
     11.1. [Vanilla RNN](lectures/cap5_1_first_rnn32.ipynb)
@@ -77,7 +85,7 @@ Matheus Stauffer Viana de Oliveira
    
     11.5. [Aplicação 3:](lectures/cap05_2_lstm32.ipynb) Reconhecimento de Entidades Nomeadas
 
-<!---
+
 3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
 
 4. Redes Neurais Artificiais
