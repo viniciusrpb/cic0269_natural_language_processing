@@ -6,6 +6,8 @@ Códigos-fontes (Notebooks Python) e recursos de apoio para a disciplina **CIC02
 
 Prof. Dr. Vinícius Ruela Pereira Borges
 
+Matheus Stauffer Viana de Oliveira
+
 ## Sumário
 
 1. Introdução ao Processamento de Linguagem Natural
