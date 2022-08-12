@@ -67,7 +67,7 @@ Matheus Stauffer Viana de Oliveira
 
 11. Redes Neurais Convolucionais
  
-    11.1. [Princípios Básicos de Convolução](lectures/lectures/cap11_1_basics_convolution.ipynb)
+    11.1. [Princípios Básicos de Convolução](lectures/cap11_1_basics_convolution.ipynb)
  
     11.2. [Implementando uma AlexNet](lectures/cap11_2_alexnet.ipynb)
 
