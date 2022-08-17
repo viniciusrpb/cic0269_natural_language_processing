@@ -48,7 +48,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
    8.2. [Métricas de Avaliação de Desempenho de Classificação](lectures/cap08_2_metricas_avaliacao_desempenho.ipynb)
 
-   8.3. [Estratégias de Amostragem](lectures/cap083_3_estrategias_amostragem.ipynb)
+   8.3. [Estratégias de Amostragem](lectures/cap08_3_estrategias_amostragem.ipynb)
    
 
 9. Redes Neurais Artificiais
