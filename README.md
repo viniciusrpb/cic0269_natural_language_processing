@@ -6,7 +6,7 @@ Códigos-fontes (Notebooks Python) e recursos de apoio para a disciplina **CIC02
 
 Prof. Dr. Vinícius Ruela Pereira Borges
 
-Matheus Stauffer Viana de Oliveira
+[Matheus Stauffer Viana de Oliveira](https://github.com/mstauffer)
 
 ## Sumário
 
@@ -23,6 +23,8 @@ Matheus Stauffer Viana de Oliveira
    4.1. [Pré-processamento de Textos](lectures/cap04_text_preprocessing.ipynb)
    
    4.2. [LIWC em Língua Portuguesa](resources/LIWC2007_Portugues_win.dic)
+   
+   4.3. [Aplicação: Part-of-Speech (PoS) Tagging utilizando Dicionários](lectures/pos_tagging.ipynb)
 
 5. Extração de Características de Textos
 
@@ -42,9 +44,11 @@ Matheus Stauffer Viana de Oliveira
    
 8. Classificação de Textos
 
-   8.1. [Regressão Logística](lectures/cap03_1_regressao_logistica.ipynb)
+   8.1. [Regressão Logística](lectures/cap08_1_regressao_logistica.ipynb)
    
-   8.2. [Avaliação de Desempenho](lectures/cap03_2_avaliacao_desempenho.ipynb)
+   8.2. [Métricas de Avaliação de Desempenho de Classificação](lectures/cap08_2_metricas_avaliacao_desempenho.ipynb)
+
+   8.3. [Estratégias de Amostragem](lectures/cap083_3_estrategias_amostragem.ipynb)
    
 
 9. Redes Neurais Artificiais
