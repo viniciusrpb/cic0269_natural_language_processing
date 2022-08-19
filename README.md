@@ -73,11 +73,11 @@ Prof. Dr. Vinícius Ruela Pereira Borges
  
     11.1. [Princípios Básicos de Convolução](lectures/cap11_1_basics_convolution.ipynb)
  
-    11.2. [Implementando uma AlexNet com Keras](lectures/cap11_2_cnn_alexnet.ipynb)
+    11.2. [Implementando uma AlexNet para Classificação de Imagens de Documentos](lectures/cap11_2_cnn_alexnet.ipynb)
     
-    11.3. [Transferência de Aprendizado em uma Residual Net com Keras](lectures/cap11_3_transfer_learning.ipynb)
+    11.3. [Transferência de Aprendizado em uma ResNet para Classificação de Imagens de Documentos](lectures/cap11_3_transfer_learning.ipynb)
     
-    11.4. [Aplicações em Textos](lectures/cap11_4_cnn_textos.ipynb)
+    11.4. [Classificação de Imagens de Documentos Utilizando OCR](lectures/cap11_4_cnn_textos.ipynb)
 
 
 <!---
