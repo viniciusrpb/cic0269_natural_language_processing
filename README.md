@@ -77,7 +77,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     
     11.3. [Transferência de Aprendizado em uma ResNet para Classificação de Imagens de Documentos](lectures/cap11_3_transfer_learning.ipynb)
     
-    11.4. [Criando Embedding para Textos](lectures/cap11_4_cnn_textos.ipynb)
+    11.4. [Criando Embedding para Textos](lectures/cap11_4_cnn_text.ipynb)
 
 
 <!---
