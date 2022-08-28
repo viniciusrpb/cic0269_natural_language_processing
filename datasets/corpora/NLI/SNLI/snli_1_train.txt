@@ -1,0 +1,1 @@
+Download do treinamento: [snli_1_train.txt](https://tinyurl.com/snlitrain)
