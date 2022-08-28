@@ -9,6 +9,11 @@
 ## ASSIN2 Corpus
 
 - Language: Portuguese
-- Source: [https://sites.google.com/view/assin2/](https://sites.google.com/view/assin2//)
+- Source: [https://sites.google.com/view/assin2/](https://sites.google.com/view/assin2/)
+
+## SICK-BR
+
+- Language: Portuguese
+- Source: [https://github.com/livyreal/SICK-BR](https://github.com/livyreal/SICK-BR) 
 
 
