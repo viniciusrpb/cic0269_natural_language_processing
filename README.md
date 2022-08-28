@@ -81,9 +81,9 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 
 
-11. Redes Neurais Recorrentes
+12. Redes Neurais Recorrentes
  
-    11.1. [Vanilla RNN](lectures/cap5_1_first_rnn32.ipynb)
+    12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
 <!---   
     11.2. [Long Short Term Memory (LSTM)](lectures/cap05_2_lstm32.ipynb)
    
