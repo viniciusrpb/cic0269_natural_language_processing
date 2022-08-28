@@ -32,7 +32,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 6. Similaridade entre Textos
 
-   6.1. [Edit Distance](lectures/cap06_1_edit_distance.ipynb)
+   6.1. Edit Distance <!--[Edit Distance](lectures/cap06_1_edit_distance.ipynb)-->
 
    6.2. [Similaridade Cosseno](lectures/cap06_2_cosine_similarity.ipynb)
    
@@ -44,7 +44,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
    
 8. Classificação de Textos
 
-   8.1. [Regressão Logística](lectures/cap08_1_regressao_logistica.ipynb)
+   8.1. Regressão Logística <!-- [](lectures/cap08_1_regressao_logistica.ipynb) -->
    
    8.2. [Métricas de Avaliação de Desempenho de Classificação](lectures/cap08_2_metricas_avaliacao_desempenho.ipynb)
 
