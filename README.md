@@ -84,7 +84,13 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 12. Redes Neurais Recorrentes
  
     12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
-<!---   
+    
+
+13. Word Embeddings
+
+<!--- 
+    12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
+    
     11.2. [Long Short Term Memory (LSTM)](lectures/cap05_2_lstm32.ipynb)
    
     11.3. [Aplicação 1:](lectures/cap05_2_lstm32.ipynb) Modelo de Linguagem
