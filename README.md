@@ -84,6 +84,12 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 12. Redes Neurais Recorrentes
  
     12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
+
+    12.2. [Modelos de Linguagem Baseados em RNNs](lectures/cap12_2_ml_rnn.ipynb)
+
+    12.3. Long Short-Term Memory and Gated Recurrent Units
+    
+    12.4. (Extra) Universal Language Modeling Fine-Tuning (ULMFiT)
     
 
 13. Word Embeddings
