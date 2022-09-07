@@ -89,7 +89,9 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
     12.3. Long Short-Term Memory and Gated Recurrent Units
     
-    12.4. (Extra) Universal Language Modeling Fine-Tuning (ULMFiT)
+    12.4. [Aplicação 1: Inferência de Linguagem Natural](lectures/natural_language_inference.ipynb)
+    
+    12.5. (Extra) Universal Language Modeling Fine-Tuning (ULMFiT)
     
 
 13. Word Embeddings
