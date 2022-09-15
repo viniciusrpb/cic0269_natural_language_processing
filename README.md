@@ -96,7 +96,13 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 13. Word Embeddings
 
-    13.1. [Aprendizado por Transferência via word2vec](lectures/cap12_1_rnn.ipynb)
+    13.1. [Aprendizado por Transferência via word2vec](lectures/cap13_1_rnn.ipynb)
+          
+          ** word2vec Pre-trained Embeddings on Google News (arquivo grande! Para não estourar a RAM, utilize limite o tamanho do vocabulário)[Link](https://drive.google.com/file/d/1gwXGu6xVPe4-aosMU3udK-fn_COfAKkp/view?usp=sharing)
+          
+    13.2. [Aprendizado por Transferência via GloVe](lectures/cap13_1_rnn.ipynb)
+          
+          ** GloVe Pre-trained Embeddings (para não estourar a RAM, utilize o embedding *Wikipedia 2014 + Gigaword 5*) [Link](https://nlp.stanford.edu/projects/glove/))
 
 <!--- 
     12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
