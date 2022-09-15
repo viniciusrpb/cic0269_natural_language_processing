@@ -89,10 +89,14 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     
     12.3. [Aplicação 1: Inferência de Linguagem Natural](lectures/natural_language_inference.ipynb)
     
+    12.4. [Aplicação 2: Reconhecimento de Entidades Nomeadas](lectures/named_entity_recognition.ipynb)
+    
     12.5. (Extra) Universal Language Modeling Fine-Tuning (ULMFiT)
     
 
 13. Word Embeddings
+
+    13.1. [Aprendizado por Transferência via word2vec](lectures/cap12_1_rnn.ipynb)
 
 <!--- 
     12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
