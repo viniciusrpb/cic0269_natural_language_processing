@@ -86,10 +86,10 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
 
     12.2. [Modelos de Linguagem Baseados em RNNs](lectures/cap12_2_lang_models_rnn.ipynb)
+
+    12.3. [Aplicação 2: Reconhecimento de Entidades Nomeadas](lectures/named_entity_recognition.ipynb)
     
-    12.3. [Aplicação 1: Inferência de Linguagem Natural](lectures/natural_language_inference.ipynb)
-    
-    12.4. [Aplicação 2: Reconhecimento de Entidades Nomeadas](lectures/named_entity_recognition.ipynb)
+    12.4. [Aplicação 1: Inferência de Linguagem Natural](lectures/natural_language_inference.ipynb)
     
     12.5. (Extra) Universal Language Modeling Fine-Tuning (ULMFiT)
     
@@ -103,49 +103,19 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     13.3. [Aprendizado por Transferência via GloVe](lectures/cap13_3_embeddings_glove.ipynb)
 
 
-14. Arquiteturas Encoder-Decoder
+14. Arquitetura Encoder-Decoder (Seq2Seq)
 
     14.1. [Fundamentos de Encoder-Decoder](lectures/cap14_1_encoder_decoder.ipynb)
 
-    14.2. [Aplicação: Machine Translation](lectures/cap14_2_machine_translation.ipynb)
+    14.2. [Aplicação: Machine Translation](lectures/cap14_2_seq2seq_machine_translation.ipynb)
 
 
 15. Transformers
 
     15.1. [Mecanismo de Atenção](lectures/cap15_1_attention_mechanism.ipynb)
 
-    15.2. [Arquitetura: Transformers](lectures/cap15_1_transformers.ipynb)
+    15.2. [Arquitetura: Transformers via BERT](lectures/cap15_2_transformers_bert.ipynb)
           
-
-<!--- 
-    12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
-    
-    11.2. [Long Short Term Memory (LSTM)](lectures/cap05_2_lstm32.ipynb)
-   
-    11.3. [Aplicação 1:](lectures/cap05_2_lstm32.ipynb) Modelo de Linguagem
-   
-    11.4. [Aplicação 2:](lectures/cap05_2_lstm32.ipynb) Classificação de Textos
-   
-    11.5. [Aplicação 3:](lectures/cap05_2_lstm32.ipynb) Reconhecimento de Entidades Nomeadas
-
-
-3. [Representação e Caracterização de Textos (Parte I)](cap02_representacoes_texto.ipynb)
-
-4. Redes Neurais Artificiais
-
-   4.1. [Perceptron Simples](cap03_1_perceptron_simples.ipynb)
-   
-   4.2. [Multilayer Perceptron](cap03_2_multilayer_perceptron.ipynb)
-
-
-   
-
-### Estudos de Caso para o Projeto
-
-6. [Classificação de polaridade em tweets utilizando MLP](cap3_3_sentiment_analysis_dnn.ipynb)
-
-7. [Reconhecimento de entidades nomeadas em atos de pessoal do Diário Oficial do Distrito Federal](ner_aula.ipynb)
--->
 
 ## Referências
 
