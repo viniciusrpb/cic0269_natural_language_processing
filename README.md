@@ -102,6 +102,21 @@ Prof. Dr. Vinícius Ruela Pereira Borges
           
     13.3. [Aprendizado por Transferência via GloVe](lectures/cap13_3_embeddings_glove.ipynb)
 
+
+14. Arquiteturas Encoder-Decoder
+
+    14.1. [Fundamentos de Encoder-Decoder](lectures/cap14_1_encoder_decoder.ipynb)
+
+    14.2. [Aplicação: Machine Translation](lectures/cap14_2_machine_translation.ipynb)
+
+
+15. Transformers
+
+    15.1. [Mecanismo de Atenção](lectures/cap15_1_attention_mechanism.ipynb)
+
+    15.2. [Arquitetura: Transformers](lectures/cap15_1_transformers.ipynb)
+          
+
 <!--- 
     12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
     
