@@ -87,7 +87,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
     12.2. [Modelos de Linguagem Baseados em RNNs](lectures/cap12_2_lang_models_rnn.ipynb)
 
-    12.3. [Aplicação 2: Reconhecimento de Entidades Nomeadas](lectures/named_entity_recognition.ipynb)
+    12.3. [Aplicação 2: Reconhecimento de Entidades Nomeadas](lectures/aula_named_entity_recognition.ipynb)
     
     12.4. [Aplicação 1: Inferência de Linguagem Natural](lectures/natural_language_inference.ipynb)
     
