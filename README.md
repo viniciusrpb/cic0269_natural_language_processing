@@ -115,6 +115,8 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     15.1. [Mecanismo de Atenção](lectures/cap15_1_attention_mechanism.ipynb)
 
     15.2. [Arquitetura: Transformers via BERT](lectures/cap15_2_transformers_bert.ipynb)
+    
+    15.3. [Arquitetura: Vision Transformers](lectures/cap15_3_vision_transformers.ipynb)
           
 
 ## Referências
