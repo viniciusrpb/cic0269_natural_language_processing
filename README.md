@@ -80,18 +80,15 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     11.4. [Redes Neurais Convolucionais em Textos](lectures/cap11_4_cnn_text.ipynb)
 
 
-
 12. Redes Neurais Recorrentes
  
     12.1. [Princípios de Redes Neurais Recorrentes](lectures/cap12_1_rnn.ipynb)
 
     12.2. [Modelos de Linguagem Baseados em RNNs](lectures/cap12_2_lang_models_rnn.ipynb)
-
-    12.3. [Aplicação 2: Reconhecimento de Entidades Nomeadas](lectures/aula_named_entity_recognition.ipynb) [Keras CRF](https://pypi.org/project/keras-crf/)
     
-    12.4. [Aplicação 1: Inferência de Linguagem Natural](lectures/natural_language_inference.ipynb)
+    12.3. [Aplicação 1: Inferência de Linguagem Natural](lectures/natural_language_inference.ipynb)
     
-    12.5. (Extra) Universal Language Modeling Fine-Tuning (ULMFiT)
+    12.4. (Extra) Universal Language Modeling Fine-Tuning (ULMFiT)
     
 
 13. Word Embeddings
@@ -103,20 +100,27 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     13.3. [Aprendizado por Transferência via GloVe](lectures/cap13_3_embeddings_glove.ipynb)
 
 
-14. Arquitetura Encoder-Decoder (Seq2Seq)
+14. Reconhecimento de Entidades Nomeadas (Named Entity Recognition - NER)
 
-    14.1. [Fundamentos de Encoder-Decoder](lectures/cap14_1_encoder_decoder.ipynb)
+    14.1. [BiLSTM](lectures/aula_named_entity_recognition.ipynb)
 
-    14.2. [Aplicação: Machine Translation](lectures/cap14_2_seq2seq_machine_translation.ipynb)
+    14.2. [Conditional Random Fields (CRF)](lectures/aula_named_entity_recognition_crf.ipynb)
 
 
-15. Transformers
+15. Arquitetura Encoder-Decoder (Seq2Seq)
 
-    15.1. [Mecanismo de Atenção](lectures/cap15_1_attention_mechanism.ipynb)
+    15.1. [Fundamentos de Encoder-Decoder](lectures/cap14_1_encoder_decoder.ipynb)
 
-    15.2. [Arquitetura: Transformers via BERT](lectures/cap15_2_transformers_bert.ipynb)
+    15.2. [Aplicação: Machine Translation](lectures/cap14_2_seq2seq_machine_translation.ipynb)
+
+
+16. Transformers
+
+    16.1. [Mecanismo de Atenção](lectures/cap15_1_attention_mechanism.ipynb)
+
+    16.2. [Arquitetura: Transformers via BERT](lectures/cap15_2_transformers_bert.ipynb)
     
-    15.3. [Arquitetura: Vision Transformers](lectures/cap15_3_vision_transformers.ipynb)
+    16.3. [Arquitetura: Vision Transformers](lectures/cap15_3_vision_transformers.ipynb)
           
 
 ## Referências
