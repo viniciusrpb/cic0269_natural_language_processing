@@ -109,9 +109,9 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
 15. Arquitetura Encoder-Decoder (Seq2Seq)
 
-    15.1. [Fundamentos de Encoder-Decoder](lectures/cap14_1_encoder_decoder.ipynb)
+    15.1. [Fundamentos de Encoder-Decoder](lectures/cap15_1_encoder_decoder.ipynb)
 
-    15.2. [Aplicação: Machine Translation](lectures/cap14_2_seq2seq_machine_translation.ipynb)
+    15.2. [Aplicação: Machine Translation](lectures/cap15_2_seq2seq_machine_translation.ipynb)
 
 
 16. Transformers
