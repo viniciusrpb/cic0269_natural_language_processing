@@ -98,6 +98,8 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     13.2. [Aprendizado por Transferência via word2vec](lectures/cap13_2_embeddings_word2vec.ipynb)
           
     13.3. [Aprendizado por Transferência via GloVe](lectures/cap13_3_embeddings_glove.ipynb)
+    
+    13.4. [Visualização de Word Embeddings](lectures/cap13_4_visualization_word_embeddings.ipynb)
 
 
 14. Reconhecimento de Entidades Nomeadas (Named Entity Recognition - NER)
