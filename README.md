@@ -111,7 +111,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
     15.1. [Fundamentos de Encoder-Decoder](lectures/cap15_1_encoder_decoder.ipynb)
     
-    15.2. [Visualização de Embbedings (Context Vectors)](lectures/cap15_2_vector_visualization.ipynb)
+    15.2. [Visualização de Vetores Multidimensionais](lectures/cap15_2_vector_visualization.ipynb)
 
     15.3. [Aplicação: Machine Translation](lectures/cap15_2_seq2seq_machine_translation.ipynb)
     
