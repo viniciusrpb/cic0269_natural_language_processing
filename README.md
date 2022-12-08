@@ -115,7 +115,7 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     
     15.2. [Visualização de Vetores Multidimensionais](lectures/cap15_2_vector_visualization.ipynb)
 
-    15.3. [Aplicação: Machine Translation](lectures/cap15_2_seq2seq_machine_translation.ipynb)
+    15.3. [Aplicação: Machine Translation](lectures/cap15_3_seq2seq_machine_translation.ipynb)
     
 
 16. Transformers
