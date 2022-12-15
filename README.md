@@ -129,9 +129,9 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
     17.1. [Arquitetura Transformer](lectures/cap17_1_transformers.ipynb)
 
-    17.2. [Arquitetura: Transformers via BERT](lectures/cap15_2_transformers_bert.ipynb)
+    17.2. [Classificação de Reviews de Filmes utilizando BERT](lectures/cap17_2_imdb_classification_bert.ipynb)
     
-    17.3. [Arquitetura: Vision Transformers](lectures/cap15_3_vision_transformers.ipynb)
+    <!--17.3. [Arquitetura: Vision Transformers](lectures/cap15_3_vision_transformers.ipynb)-->
           
 
 ## Referências
