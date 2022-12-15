@@ -118,13 +118,20 @@ Prof. Dr. Vinícius Ruela Pereira Borges
     15.3. [Aplicação: Machine Translation](lectures/cap15_3_seq2seq_machine_translation.ipynb)
     
 
-16. Transformers
+16. Mecanismo de Atenção
 
-    16.1. [Mecanismo de Atenção](lectures/cap15_1_attention_mechanism.ipynb)
+    16.1. [Fundamentos](lectures/cap15_1_attention_mechanism.ipynb)
 
-    16.2. [Arquitetura: Transformers via BERT](lectures/cap15_2_transformers_bert.ipynb)
+    16.2. [Classificação de Reviews de Filmes com Atenção](lectures/cap16_2_idmb_classification_self_attention.ipynb)
     
-    16.3. [Arquitetura: Vision Transformers](lectures/cap15_3_vision_transformers.ipynb)
+
+17. Transformers
+
+    17.1. [Arquitetura Transformer](lectures/cap17_1_transformers.ipynb)
+
+    17.2. [Arquitetura: Transformers via BERT](lectures/cap15_2_transformers_bert.ipynb)
+    
+    17.3. [Arquitetura: Vision Transformers](lectures/cap15_3_vision_transformers.ipynb)
           
 
 ## Referências
