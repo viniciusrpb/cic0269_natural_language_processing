@@ -129,9 +129,9 @@ Prof. Dr. Vinícius Ruela Pereira Borges
 
     17.1. [Arquitetura Transformer](lectures/cap17_1_transformers.ipynb)
 
-    17.2. [Classificação de Reviews de Filmes utilizando BERT](lectures/cap17_2_imdb_classification_bert.ipynb)
+    17.2. [Classificação de Reviews de Filmes utilizando BERT](lectures/cap17_2_idmb_classification_bert.ipynb)
     
-    17.3. [Classificação de Reviews de Filmes utilizando GPT3](lectures/cap17_3_imdb_classification_gpt3.ipynb)
+    17.3. [Classificação de Reviews de Filmes utilizando GPT3](lectures/cap17_3_idmb_classification_gpt3.ipynb)
     
     17.4. [Reconhecimento de Entidades Nomeadas utilizando BERT](lectures/cap17_4_ner_bert.ipynb)
     
